@@ -1,0 +1,7 @@
+name: NoJump
+version: 1.0
+author: KerritMine
+main: io.github.kerrit_mine.nojump.NoJump
+commands: 
+      nojump:
+         usage: /nojump
